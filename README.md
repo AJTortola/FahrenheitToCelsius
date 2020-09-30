@@ -1,3 +1,2 @@
-# FahrenheitToCelsius
-
-Using C this program converts a Fahrenheit temperature inputted by the user into Celsius.
+# Fahrenheit To Celsius
+Using C, In this example,It will convert fahrenheit temperature to celsius temperature entered by the user.
